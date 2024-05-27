@@ -1,0 +1,4 @@
+git+https://github.com/huggingface/transformers.git@main#egg=transformers
+torch
+gradio
+numpy
