@@ -1,5 +1,5 @@
 # Gradio-GroundingDINO-Mac
-This repository hosts a Gradio application that leverages PyTorch and the transformers library to perform zero-shot object detection using the grounding-dino-tiny model from IDEA-Research. The application is enabled to run on Mac silicon chips, ensuring efficient performance on Apple's M1 and M2 processors. Also can run with CPU or CUDA!
+This repository hosts a Gradio application that leverages PyTorch and the transformers library to perform zero-shot object detection using the grounding-dino-tiny model from IDEA-Research. The application is enabled to run on Mac silicon chips, ensuring efficient performance on Apple silicon chips. Also can run with CPU or CUDA!
 
 ## Features:
 Zero-Shot Object Detection: Utilize the state-of-the-art grounding-dino-tiny model to detect objects without the need for prior training on specific classes.
